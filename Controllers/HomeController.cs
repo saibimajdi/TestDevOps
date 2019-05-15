@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using TestDevOps.Models;
-asdasdasdasdasdasd
+
 namespace TestDevOps.Controllers
 {
     public class HomeController : Controller
